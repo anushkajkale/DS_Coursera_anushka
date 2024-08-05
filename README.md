@@ -1,1 +1,1 @@
-# DS_Coursera_anushka
+# DataScienceEcosystem_lab1
